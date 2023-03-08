@@ -1,0 +1,15 @@
+{
+  "name": "rmrp-playercount",
+  "version": "1.0.0",
+  "description": "Fetch player count wihtout CORS Enabled",
+  "main": "Web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VIP3R",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
